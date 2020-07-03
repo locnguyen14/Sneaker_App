@@ -13,6 +13,7 @@ git clone https://github.com/locnguyen14/Sneaker_App.git
 **2. Environment Setup** : 
 
 virtualenv web-scrape-zappos
+
 source virtualenv/bin/activate
 
 **3. Installation of dependencies** :
