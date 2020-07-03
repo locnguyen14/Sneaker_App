@@ -24,8 +24,7 @@ pip install -r requirements.txt
 
 Please go to https://drive.google.com/file/d/1KPhxLFpuCXcdZm8nnQT7ush-R0_VnF6_/view?usp=sharing and save the above file as pca.pkl inside **/webscrapezappos/pkl_file** folder
 
-Also, please create a new folder within 
-mkdir webscrapezappos/static/images
+Also, please create a new folder by typing **mkdir webscrapezappos/static/images**
 
 **5. Run the App** :
 
