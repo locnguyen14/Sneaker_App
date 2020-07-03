@@ -1,0 +1,9 @@
+{% extends "layout.html" %}
+
+{% block content %}
+{% for post in posts %}
+<h3>{{ post[0] }}</h3>
+<p> Probability = {{ post[1] }}</p>
+{% endfor %}
+<img src="{{ img_src }}">
+{% endblock content %}

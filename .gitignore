@@ -1,0 +1,7 @@
+__pycache__/
+*.ipynb_checkpoints/
+.vscode/
+images/
+web-scrape-zappos/
+webscrapezappos/scrape.csv
+webscrapezappos/pkl_file/pca.pkl
