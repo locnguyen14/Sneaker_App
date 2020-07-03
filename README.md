@@ -6,19 +6,19 @@ A video demo of the app: https://youtu.be/vyIXO6fwjWY
 # App Usage
 Type these below commands
 
-**Download**
+**1. Download**
 <p>git clone https://github.com/locnguyen14/Sneaker_App.git</p>
 
-**Environment Setup** : 
+**2. Environment Setup** : 
 <p>virtualenv web-scrape-zappos</p>
 <p>source virtualenv/bin/activate</p>
 
-**Installation of dependencies** :
+**3. Installation of dependencies** :
 <p>pip install -r requirements.txt</p>
 
-**Extra Files** :
+**4. Extra Files** :
 <p>Please go to https://drive.google.com/file/d/1KPhxLFpuCXcdZm8nnQT7ush-R0_VnF6_/view?usp=sharing<br>
 Save the above file as pca.pkl inside **/webscrapezappos/pkl_file** folder<p
 
-**Run the App** :
+**5. Run the App** :
 <p>python3 server.py</p>
